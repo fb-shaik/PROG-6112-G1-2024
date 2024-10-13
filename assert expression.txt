@@ -1,0 +1,15 @@
+Assertions
+- Used to test assumptions made by the app
+- used during development & debugging phase
+- boolean expression that you place at certain
+   points in your code to verify that a particular
+   condition holds true
+- if condition is fasle, the app will throw an 
+   AssertionError>>> help you identify logical errors 
+
+Syntax: Java uses a keyword: assert
+
+1. Simple form: assert expression; 
+2. Assertion with error Message: 
+	assert expression : errorMessage;
+
